@@ -1,0 +1,16 @@
+{
+  "name": "nivela-protocol",
+  "version": "1.0.0",
+  "description": "Nivela Protocol - Sovereign borrowing on BNB Smart Chain (BSC)",
+  "scripts": {
+    "compile": "hardhat compile",
+    "test": "hardhat test"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.20.0"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.9.0"
+  }
+}
