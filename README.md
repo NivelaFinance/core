@@ -16,7 +16,7 @@ A sovereign borrowing protocol built on **BNB Smart Chain (BSC)** and compatible
 
 ## Contract Addresses
 
-### Summary (per DappBay template)
+### Summary 
 
 | Network  | Core Contract (Vault) | Token Contract (NIV) | (Optional: Governance - veNIV) |
 |----------|------------------------|----------------------|--------------------------------|
@@ -73,8 +73,6 @@ A sovereign borrowing protocol built on **BNB Smart Chain (BSC)** and compatible
 - Website: https://nivela.fi  
 - Documentation: https://nivelafi.gitbook.io/docs  
 - Twitter: https://x.com/nivelafi  
-
-## Configuration Evidence
 
 The repository includes a Hardhat configuration targeting **BNB Smart Chain** RPC endpoints:
 
