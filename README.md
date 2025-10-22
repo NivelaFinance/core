@@ -70,7 +70,7 @@ A sovereign borrowing protocol built on **BNB Smart Chain (BSC)** and compatible
 
 ## Links
 
-- Website: https://nivela.fi  
+- Website: https://nivela.finance  
 - Documentation: https://nivelafi.gitbook.io/docs  
 - Twitter: https://x.com/nivelafi  
 
